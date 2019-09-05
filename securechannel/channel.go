@@ -7,8 +7,8 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 	"errors"
-	"github.com/certusone/yubihsm-go/commands"
-	"github.com/certusone/yubihsm-go/connector"
+	"/root/goApps/src/github.com/cosmos/yubihsm-go/commands"
+	"/root/goApps/src/github.com/cosmos/yubihsm-go/connector"
 	"github.com/enceve/crypto/cmac"
 	"sync"
 )

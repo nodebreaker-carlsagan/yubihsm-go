@@ -3,7 +3,7 @@ package connector
 import (
 	"bytes"
 	"fmt"
-	"github.com/certusone/yubihsm-go/commands"
+	"/root/goApps/src/github.com/cosmos/yubihsm-go/commands"
 	"io/ioutil"
 	"net/http"
 	"strings"
